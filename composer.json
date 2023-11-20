@@ -1,0 +1,8 @@
+{
+  "name": "drozzi-pro/woo-variation-gallery-pro",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/drozzi-pro/woo-variation-gallery-pro",
+  "require": {
+    "php": ">=7.0"
+  }
+}
